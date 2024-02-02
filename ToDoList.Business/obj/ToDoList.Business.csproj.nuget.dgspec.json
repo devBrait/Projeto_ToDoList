@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Business\\ToDoList.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Business\\ToDoList.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Business\\ToDoList.Business.csproj",
+        "projectName": "ToDoList.Business",
+        "projectPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Business\\ToDoList.Business.csproj",
+        "packagesPath": "C:\\Users\\lorim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lorim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Data\\ToDoList.Data.csproj": {
+                "projectPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Data\\ToDoList.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Core\\ToDoList.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Core\\ToDoList.Core.csproj",
+        "projectName": "ToDoList.Core",
+        "projectPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Core\\ToDoList.Core.csproj",
+        "packagesPath": "C:\\Users\\lorim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lorim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Data\\ToDoList.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Data\\ToDoList.Data.csproj",
+        "projectName": "ToDoList.Data",
+        "projectPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Data\\ToDoList.Data.csproj",
+        "packagesPath": "C:\\Users\\lorim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lorim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Core\\ToDoList.Core.csproj": {
+                "projectPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Core\\ToDoList.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

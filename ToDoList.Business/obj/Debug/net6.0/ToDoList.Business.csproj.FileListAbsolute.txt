@@ -1,0 +1,17 @@
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\bin\Debug\net6.0\ToDoList.Business.deps.json
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\bin\Debug\net6.0\ToDoList.Business.dll
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\bin\Debug\net6.0\ToDoList.Business.pdb
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\bin\Debug\net6.0\ToDoList.Core.dll
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\bin\Debug\net6.0\ToDoList.Data.dll
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\bin\Debug\net6.0\ToDoList.Data.pdb
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\bin\Debug\net6.0\ToDoList.Core.pdb
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\obj\Debug\net6.0\ToDoList.Business.csproj.AssemblyReference.cache
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\obj\Debug\net6.0\ToDoList.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\obj\Debug\net6.0\ToDoList.Business.AssemblyInfoInputs.cache
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\obj\Debug\net6.0\ToDoList.Business.AssemblyInfo.cs
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\obj\Debug\net6.0\ToDoList.Business.csproj.CoreCompileInputs.cache
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\obj\Debug\net6.0\ToDoList.Business.csproj.CopyComplete
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\obj\Debug\net6.0\ToDoList.Business.dll
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\obj\Debug\net6.0\refint\ToDoList.Business.dll
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\obj\Debug\net6.0\ToDoList.Business.pdb
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Business\obj\Debug\net6.0\ref\ToDoList.Business.dll

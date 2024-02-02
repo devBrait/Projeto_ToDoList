@@ -1,0 +1,17 @@
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\bin\Debug\net6.0\ToDoList.Data.deps.json
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\bin\Debug\net6.0\ToDoList.Data.runtimeconfig.json
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\bin\Debug\net6.0\ToDoList.Data.dll
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\bin\Debug\net6.0\ToDoList.Data.pdb
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\bin\Debug\net6.0\ToDoList.Core.dll
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\bin\Debug\net6.0\ToDoList.Core.pdb
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\ToDoList.Data.csproj.AssemblyReference.cache
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\ToDoList.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\ToDoList.Data.AssemblyInfoInputs.cache
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\ToDoList.Data.AssemblyInfo.cs
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\ToDoList.Data.csproj.CoreCompileInputs.cache
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\ToDoList.Data.csproj.CopyComplete
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\ToDoList.Data.dll
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\refint\ToDoList.Data.dll
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\ToDoList.Data.pdb
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\ToDoList.Data.genruntimeconfig.cache
+C:\Users\lorim\OneDrive\Documentos\PROJETOS\WEB\API_ToDoList\ToDoList.Data\obj\Debug\net6.0\ref\ToDoList.Data.dll
