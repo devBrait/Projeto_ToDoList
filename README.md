@@ -56,6 +56,10 @@ Embora o Visual Studio seja a principal IDE para o desenvolvimento .NET, escolhi
     4. Microsoft.EntityFrameworkCore.Tools:
 
             dotnet add package Microsoft.EntityFrameworkCore.Tools --version 6.0.1
+    5. Subir o banco de dados para o SQL:
+    
+            dotnet ef database update
+
     #### ⚠️AVISO: é necessário baixar o EF CORE antes de tentar executar o projeto.
 
 
