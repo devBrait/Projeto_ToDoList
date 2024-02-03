@@ -14,12 +14,14 @@
         "outputPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lorim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lorim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,12 +73,14 @@
         "outputPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lorim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lorim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -124,12 +128,14 @@
         "outputPath": "C:\\Users\\lorim\\OneDrive\\Documentos\\PROJETOS\\WEB\\API_ToDoList\\ToDoList.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lorim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lorim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
