@@ -85,16 +85,16 @@ namespace ToDoList.API.Controllers
             try
             {
 
+                // Validar o modelo no json com o Model
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
                 var tarefa = await _tarefaService.UpdateTarefaAsync(id, tarefaAtualizada);
 
                 if (tarefa == null)
                 {
                     return NotFound($"Tarefa com ID {id} não encontrada ou não existe!");
-                }
-                // Validar o modelo no json com o Model
-                if (!ModelState.IsValid)
-                {
-                    return BadRequest(ModelState);
                 }
 
                 return Ok(tarefa);
