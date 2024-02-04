@@ -27,6 +27,10 @@ namespace ToDoList.Data.Repositories
         public async Task<Tarefa> GetTarefaByIdAsync(int id)
         {
             var tarefa = await _appDbContext.tarefas.FindAsync(id);
+            if(tarefa == null)
+            {
+                return null;
+            }
             return tarefa;
         }
 

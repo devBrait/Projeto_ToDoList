@@ -7,8 +7,9 @@ namespace ToDoList.API.Controllers
     [Route("[controller]")]
     public class TarefaController : Controller
     {
+        // Variáveis 
         private readonly TarefaService _tarefaService;
-
+        // Construtor
         public TarefaController(TarefaService tarefaService)
         {
             _tarefaService = tarefaService;
@@ -124,6 +125,8 @@ namespace ToDoList.API.Controllers
                 return StatusCode(500, ex.Message);
             }
         }
+
+        // endpoint
 
     }
 }
